@@ -37,7 +37,12 @@ Netflix Titles Dataset (Kaggle)
 
 ---
 
+## 📊 Power BI Dashboard
+
+![Netflix Dashboard](Screenshot 2026-07-15 21390.png)
 ## 📈 Key Insights
+
+---
 
 - Movies make up the majority of Netflix's content.
 - Content additions increased significantly after 2015.
