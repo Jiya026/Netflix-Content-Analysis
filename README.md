@@ -51,8 +51,6 @@ Netflix Titles Dataset (Kaggle)
 
 ![Rating Distribution](Netflix_analysis/top-ratings.png)
 
-![Top Countries Posting on Netflix](Netflix_analysis/top-countries.png)
-
 ![Top 10 Genres on Netflix](Netflix_analysis/top-genres.png)
 
 ![Title Added Per Year](Netflix_analysis/content-released-per-year.png)
