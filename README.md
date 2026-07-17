@@ -47,7 +47,7 @@ Netflix Titles Dataset (Kaggle)
 
 ![Top 10 Countries](top-countries.png)
 
-![Release Year Trend](content-released-per-year.png)
+![Release Year Trend](released-year.png)
 
 ![Rating Distribution](top-ratings.png)
 
