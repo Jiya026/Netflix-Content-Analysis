@@ -43,20 +43,19 @@ Netflix Titles Dataset (Kaggle)
 
 ## 📈 Python Visualizations
 
-![Content Type Graph](content-type-graph.png)
+![Content Type Graph](Netflix_analysis/content-type-graph.png)
 
-![Top 10 Countries](top-countries.png)
+![Top 10 Countries](Netflix_analysis/top-countries.png)
 
-![Release Year Trend](released-year.png)
+![Release Year Trend](Netflix_analysis/released-year.png)
 
-![Rating Distribution](top-ratings.png)
+![Rating Distribution](Netflix_analysis/top-ratings.png)
 
-![Top Countries Posting on Netflix](top-countries.png)
+![Top Countries Posting on Netflix](Netflix_analysis/top-countries.png)
 
-![Top 10 Genres on Netflix](top-genres.png)
+![Top 10 Genres on Netflix](Netflix_analysis/top-genres.png)
 
-![Title Added Per Year](release-trend.png)
-
+![Title Added Per Year](Netflix_analysis/content-released-per-year.png)
 ---
 
 ## 📈 Key Insights
