@@ -39,10 +39,27 @@ Netflix Titles Dataset (Kaggle)
 
 ## 📊 Power BI Dashboard
 
-![Netflix Dashboard](Screenshot 2026-07-15 21390.png)
-## 📈 Key Insights
+![Power BI Dashboard](powerbi-dashboard.png)
+
+## 📈 Python Visualizations
+
+![Content Type Graph](content-type-graph.png)
+
+![Top 10 Countries](top-countries.png)
+
+![Release Year Trend](content-released-per-year.png)
+
+![Rating Distribution](top-ratings.png)
+
+![Top Countries Posting on Netflix](top-countries.png)
+
+![Top 10 Genres on Netflix](top-genres.png)
+
+![Title Added Per Year](release-trend.png)
 
 ---
+
+## 📈 Key Insights
 
 - Movies make up the majority of Netflix's content.
 - Content additions increased significantly after 2015.
